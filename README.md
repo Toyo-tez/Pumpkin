@@ -33,15 +33,19 @@ and customizable experience. It prioritizes performance and player enjoyment whi
   - [x] Encryption
   - [x] Packet Compression
 - Player Configuration
+  - [x] Cookies
   - [x] Registries (biome types, paintings, dimensions)
   - [x] Server Brand
   - [x] Server Links
   - [x] Set Resource Pack
-  - [x] Cookies
 - World
   - [x] World Joining
   - [x] Player Tab-list
+  - [x] Scoreboard
   - [x] World Loading
+  - [x] World Time
+  - [x] World Borders
+  - [x] World Saving
   - [x] Lighting
   - [x] Entity Spawning
   - [x] Item drops
@@ -50,10 +54,6 @@ and customizable experience. It prioritizes performance and player enjoyment whi
   - [x] Chunk Loading (Vanilla, Linear)
   - [x] Chunk Generation
   - [x] Chunk Saving (Vanilla, Linear)
-  - [x] World Time
-  - [x] Scoreboard
-  - [x] World Borders
-  - [x] World Saving
   - [ ] Redstone
   - [ ] Liquid Physics
   - [ ] Biomes
@@ -73,11 +73,11 @@ and customizable experience. It prioritizes performance and player enjoyment whi
 - Entities
   - [x] Non-Living (Minecart, Eggs...)
   - [x] Entity Effects
-  - [ ] Entity Saving
   - [x] Players
   - [x] Mobs
   - [x] Animals
   - [x] Entity AI
+  - [ ] Entity Saving
   - [ ] Boss
   - [ ] Villagers
   - [ ] Mobs Inventory
